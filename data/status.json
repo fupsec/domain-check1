@@ -1,15 +1,210 @@
 {
-  "lastCheck": "2026-02-01T05:46:42.420Z",
+  "lastCheck": "2026-09-25T04:40:53.569Z",
   "domains": [
     {
-      "domain": "myleads.click",
+      "domain": "aalto.cn",
       "status": "available",
-      "lastChecked": "2026-02-01T05:46:42.000Z"
+      "lastChecked": "2026-09-25T04:39:48.000Z"
+    },
+    {
+      "domain": "aino.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:49.000Z"
+    },
+    {
+      "domain": "aloy.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:49.000Z"
+    },
+    {
+      "domain": "aria.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:49.000Z"
+    },
+    {
+      "domain": "asta.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:49.000Z"
+    },
+    {
+      "domain": "bailu.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:50.000Z"
+    },
+    {
+      "domain": "brant.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:50.000Z"
+    },
+    {
+      "domain": "chiori.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:50.000Z"
+    },
+    {
+      "domain": "chisa.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:50.000Z"
+    },
+    {
+      "domain": "cyrene.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:50.000Z"
+    },
+    {
+      "domain": "fischl.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:39:51.000Z"
+    },
+    {
+      "domain": "hsin.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:05.000Z"
+    },
+    {
+      "domain": "ifa.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:05.000Z"
+    },
+    {
+      "domain": "iuno.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:05.000Z"
+    },
+    {
+      "domain": "jade.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:06.000Z"
+    },
+    {
+      "domain": "jiyan.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:06.000Z"
+    },
+    {
+      "domain": "kirara.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:06.000Z"
+    },
+    {
+      "domain": "lauma.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:06.000Z"
+    },
+    {
+      "domain": "layla.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:06.000Z"
+    },
+    {
+      "domain": "lumi.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:21.000Z"
+    },
+    {
+      "domain": "lupa.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:21.000Z"
+    },
+    {
+      "domain": "lucy.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:21.000Z"
+    },
+    {
+      "domain": "lynae.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:21.000Z"
+    },
+    {
+      "domain": "lynx.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:21.000Z"
+    },
+    {
+      "domain": "misha.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:22.000Z"
+    },
+    {
+      "domain": "moze.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:22.000Z"
+    },
+    {
+      "domain": "mydei.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:22.000Z"
+    },
+    {
+      "domain": "navia.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:22.000Z"
+    },
+    {
+      "domain": "nefer.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:22.000Z"
+    },
+    {
+      "domain": "rappa.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:37.000Z"
+    },
+    {
+      "domain": "rover.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:37.000Z"
+    },
+    {
+      "domain": "saber.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:37.000Z"
+    },
+    {
+      "domain": "sampo.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:37.000Z"
+    },
+    {
+      "domain": "seele.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:37.000Z"
+    },
+    {
+      "domain": "skirk.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:38.000Z"
+    },
+    {
+      "domain": "sunna.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:38.000Z"
+    },
+    {
+      "domain": "taoqi.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:38.000Z"
+    },
+    {
+      "domain": "youhu.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:52.000Z"
+    },
+    {
+      "domain": "zani.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:53.000Z"
+    },
+    {
+      "domain": "cissia.cn",
+      "status": "available",
+      "lastChecked": "2026-09-25T04:40:53.000Z"
     }
   ],
   "counts": {
-    "total": 1,
-    "available": 1,
+    "total": 40,
+    "available": 40,
     "registered": 0,
     "error": 0
   }
